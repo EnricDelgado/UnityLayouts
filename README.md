@@ -21,3 +21,11 @@ Enjoy!
 
 - **Monitors**: 1
 - **Purpose**: Perfect layout for editing the scene
+
+### Standard Layout
+
+![Standard Layout](standardlayout.png)
+
+- **Monitors**: 1
+- **Purpose**: The basic layout: one-size-fits-all approach for single monitor users
+
