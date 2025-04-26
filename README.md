@@ -10,7 +10,14 @@ Enjoy!
 
 ### Console Debug Layout
 
-![alt text](resources/image.png)
+![Console Debug Layout](resources/consoledebug.png)
 
 - **Monitors**: 1
 - **Purpose**: Play session debug: the user can watch the play session on detail - even record it - while keeping track of the signals launched from code
+
+### Edit Scene Layout
+
+![Edit Scene Layout](resources/editscene.png)
+
+- **Monitors**: 1
+- **Purpose**: Perfect layout for editing the scene
