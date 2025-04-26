@@ -35,3 +35,18 @@ Enjoy!
 
 - **Monitors**: 2
 - **Purpose**: The basic layout for dual monitor users. This showcases all basic Unity windows, while leaving screen space for another window (code editors, build, browser...)
+
+### Two Thirds Layout
+
+![Two Thirds Layout](resources/twothirds.png)
+
+- **Monitors**: 2
+- **Purpose**: Like the Three Quarters Layout but with extra screen space
+
+### Timeline Layout
+
+![Timeline Layout](resources/timeline.png)
+
+- **Monitors**: 2
+- **Purpose**: Dual monitor layout for generating cinematics using timeline: allows for asset interaction as well as code modification.
+
