@@ -50,3 +50,16 @@ Enjoy!
 - **Monitors**: 2
 - **Purpose**: Dual monitor layout for generating cinematics using timeline: allows for asset interaction as well as code modification.
 
+### VFX Layout
+
+![VFX Layout](resources/vfx.png)
+
+- **Monitors**: 1
+- **Purpose**: Single monitor setup for VFX/Shader asset generation
+
+### VFX Dual Monitor Layout
+
+![VFX Layout](resources/vfxdualmonitor.png)
+
+- **Monitors**: 2
+- **Purpose**: Dual monitor setup for VFX/Shader asset generation
