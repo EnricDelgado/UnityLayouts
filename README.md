@@ -24,8 +24,14 @@ Enjoy!
 
 ### Standard Layout
 
-![Standard Layout](standardlayout.png)
+![Standard Layout](resources/standardlayout.png)
 
 - **Monitors**: 1
 - **Purpose**: The basic layout: one-size-fits-all approach for single monitor users
 
+### Three Quarters Layout
+
+![Three Quarter Layout](resources/threequarters.png)
+
+- **Monitors**: 2
+- **Purpose**: The basic layout for dual monitor users. This showcases all basic Unity windows, while leaving screen space for another window (code editors, build, browser...)
